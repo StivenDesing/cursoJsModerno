@@ -1,2 +1,0 @@
-# cursoJsModerno
-Aprendiendo js moderno
